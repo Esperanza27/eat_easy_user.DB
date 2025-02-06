@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "eat_easy_user DB",
+            "database": "./database/eat_easy_user.db"
+        }
+    ]
+}
